@@ -13,7 +13,7 @@
 using System.Collections.Specialized;
 using System.Text.RegularExpressions;
 
-namespace CurrencyX.Common
+namespace Seedphrase
 {
     /// <summary>
     /// Arguments class

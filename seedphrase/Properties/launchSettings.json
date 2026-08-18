@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "seedphrase": {
+      "commandName": "Project",
+      "commandLineArgs": "/debug"
+    }
+  }
+}
